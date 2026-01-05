@@ -66,7 +66,7 @@ In this project, you will access to the Spiceworks Cloud Help Desk ticketing sys
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/arzPLs1.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/arzPLs1.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
