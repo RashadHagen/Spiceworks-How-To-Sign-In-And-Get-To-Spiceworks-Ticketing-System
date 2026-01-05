@@ -48,7 +48,7 @@ In this project, you will access to the Spiceworks Cloud Help Desk ticketing sys
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: +Add tab (top-middle).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Login (top-right corner, between: Search box, Join).</b></span>  
 <br/>
 
 <table>
